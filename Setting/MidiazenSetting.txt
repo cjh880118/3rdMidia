@@ -1,8 +1,8 @@
-STTUrl=ws://39.118.204.91:36515/ws
-TTSGirlUrl=ws://112.217.220.82:42022/ws
-TTSBoyUrl=ws://112.217.220.82:42122/ws
-SDSIp=112.217.220.82
-SDSPort=40222
+STTUrl=
+TTSGirlUrl=
+TTSBoyUrl=
+SDSIp=
+SDSPort=
 Channel=1
 TTSFrequency=22050
 STTFrequency=16000
